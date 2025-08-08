@@ -3,3 +3,4 @@
 *.exe
 .env
 node_modules
+rust/**/target
